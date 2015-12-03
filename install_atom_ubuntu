@@ -6,3 +6,5 @@ echo "Automatic Install for Atom in Ubuntu" \
 sudo add-apt-repository ppa:webupd8team/atom \
 && sudo apt-get update \
 && sudo apt-get install atom \
+
+echo "Thank you for using this little script" \
