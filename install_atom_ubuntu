@@ -9,3 +9,4 @@ sudo add-apt-repository ppa:webupd8team/atom \
 && sudo apt-get install atom \
 
 echo "Thank you for using this little script" \
+echo "created by Gerhard" \
